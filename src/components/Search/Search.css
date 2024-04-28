@@ -1,0 +1,9 @@
+.Search-wrapper{
+    margin: 0 auto;
+}
+
+#Pokemon-name-search{
+    margin: 2rem;
+    padding: 1.5rem;
+    width: 600px;
+}
